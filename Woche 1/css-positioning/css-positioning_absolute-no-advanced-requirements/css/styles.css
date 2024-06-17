@@ -43,14 +43,13 @@ main {
 .box--top-center {
   background-color: #85c1e9;
   position: relative;
-  left: 210px;px;
-
+  left: 210px;
 }
 
 .box--top-right {
   background-color: #5dade2;
   position: absolute;
-  left:420px ;
+  left: 420px;
   top: 0px;
 }
 
@@ -58,20 +57,20 @@ main {
   background-color: #3498db;
   position: absolute;
   left: 210px;
-  top: 260px
+  top: 260px;
 }
 
 .box--bottom-left {
   background-color: #2874a6;
   position: absolute;
-  top: 520px
+  top: 520px;
 }
 
 .box--bottom-center {
   background-color: #21618c;
   position: absolute;
   top: 520px;
-  left: 210px
+  left: 210px;
 }
 
 .box--bottom-right {
